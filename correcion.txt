@@ -1,0 +1,4 @@
+Calculadora: 
+ - Limpiar el scroll (se pone automático). 
+ - Quitar el igual. 
+ - Empezar nueva cuenta se reinicie la pantalla tras mostrar un resultado. 
